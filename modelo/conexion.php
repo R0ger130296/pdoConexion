@@ -2,7 +2,7 @@
 class Conexion {
     public function get_conexion(){
         $user = "postgres";
-        $pass = "roger130296";
+        $pass = "12345";
         $host = "localhost";
         $db = "pedido";
 
